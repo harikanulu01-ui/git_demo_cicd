@@ -1,0 +1,5 @@
+[
+  "test_app.py::test_home_endpoint",
+  "test_app.py::test_predict_endpoint_invalid_input",
+  "test_app.py::test_predict_endpoint_valid_input"
+]
